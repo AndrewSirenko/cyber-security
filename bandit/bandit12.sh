@@ -11,3 +11,4 @@ tar -xvf data5.bin > data6.bin
 file data6.bin # shows bzip2
 cat data6.bin | bzip2 -d > data8.bin
 cat data8.bin | gzip -d
+# wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
